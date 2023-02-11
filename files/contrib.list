@@ -1,0 +1,2 @@
+deb http://deb.debian.org/debian stable contrib
+deb http://deb.debian.org/debian stable-updates contrib
